@@ -22,7 +22,7 @@
                 <div class="animate form login_form">
                     <section class="login_content">
                         <form action="./Logar" method="POST">
-                            <h1>gestão/Vendas</h1>
+                            <h1>CadMin</h1>
                             <div>
                                 <input type="text" class="form-control" placeholder="Usuário" required="" name="user" />
                             </div>
@@ -31,14 +31,14 @@
                             </div>
                             <div>
                                 <input type="submit" value="Logar"/>
-                                <a class="reset_pass" href="#">Esqueceu a senha?</a>
+                                <a class="reset_pass" href="#"></a>
                             </div>
 
                             <div class="clearfix"></div>
 
                             <div class="separator">
-                                <p class="change_link">Cadastrar-se?
-                                    <a href="#signup" class="to_register"> Criar usuário </a>
+                                <p class="change_link">
+                                    <a href="#signup" class="to_register"></a>
                                 </p>
 
                                 <div class="clearfix"></div>
