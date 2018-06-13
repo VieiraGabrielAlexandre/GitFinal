@@ -61,7 +61,7 @@
         
         <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="x_panel">    
-                <p>to aqui bicha <%= user_id%></p>
+                <p>Usuario <%= user_id%></p>
             </div>            
         </div>
     </div>

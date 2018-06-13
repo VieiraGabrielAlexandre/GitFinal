@@ -26,7 +26,8 @@ CREATE TABLE `cliente` (
 
 
 INSERT INTO `cliente` (`id`, `aniversario`, `ativo`, `cep`, `logradouro`, `nome`, `sobre_nome`) VALUES
-(1, '1987-01-22', 1, '06866230', 'RUA MARIALVA', 'PAULO', 'RICARDO');
+(1, '1920-01-22', 1, '02889232', 'RUA TWATW', 'LOUCO', 'TESTE'),
+(2, '1990-10-1O', 1, '04892025', 'RUA DAS ROSAS', 'GABRIEL', 'VIEIRA');
 
 
 DROP TABLE IF EXISTS `fornecedor`;
@@ -63,22 +64,23 @@ CREATE TABLE `pedidos_itens` (
 
 INSERT INTO `pedidos_itens` (`id`, `descricao`, `id_pedido`, `quantidade`, `valor_total`, `valor_unitario`) VALUES
 (2, NULL, 4, NULL, 0, 0),
-(15, 'AGUA', 12, 1, 3.9, 3.9),
-(16, 'SUCO', 12, 1, 10.5, 10.5),
-(17, 'AGUA', 13, 1, 3.9, 3.9),
-(18, 'SUCO', 13, 1, 10.5, 10.5),
-(19, 'AGUA', 15, 1, 3.9, 3.9),
-(20, 'SUCO', 15, 1, 10.5, 10.5),
-(21, 'AGUA', 15, 1, 3.9, 3.9),
-(22, 'SUCO', 15, 1, 10.5, 10.5),
-(23, 'AGUA', 15, 1, 3.9, 3.9),
-(24, 'SUCO', 15, 1, 10.5, 10.5),
-(25, 'AGUA', 16, 1, 3.9, 3.9),
-(26, 'SUCO', 16, 1, 10.5, 10.5),
-(27, 'AGUA', 16, 1, 3.9, 3.9),
-(28, 'SUCO', 16, 1, 10.5, 10.5),
-(29, 'AGUA', 16, 1, 3.9, 3.9);
-
+(15, 'CONTROLE PS3', 12, 1, 3.9, 3.9),
+(16, 'CONTROLE PS4', 12, 1, 10.5, 10.5),
+(17, 'CONTROLE XONE', 13, 1, 3.9, 3.9),
+(18, 'CONTROLE X360', 13, 1, 10.5, 10.5),
+(19, 'JOGO1', 15, 1, 3.9, 3.9),
+(20, 'JOGO2', 15, 1, 10.5, 10.5),
+(21, 'JOGO3', 15, 1, 3.9, 3.9),
+(22, 'JOGO4', 15, 1, 10.5, 10.5),
+(23, 'JOGO5', 15, 1, 3.9, 3.9),
+(24, 'JOGO6', 15, 1, 10.5, 10.5),
+(25, 'JOGO7', 16, 1, 3.9, 3.9),
+(26, 'JOGO8', 16, 1, 10.5, 10.5),
+(27, 'JOGO9', 16, 1, 3.9, 3.9),
+(28, 'JOGO10', 16, 1, 10.5, 10.5),
+(29, 'PS1', 16, 1, 3.9, 3.9),
+(30, 'PS2', 16, 1, 3.9, 3.9),
+(28, 'PS3', 16, 1, 0.5, 10.5);
 
 DROP TABLE IF EXISTS `produto`;
 CREATE TABLE `produto` (

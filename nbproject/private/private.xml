@@ -3,12 +3,43 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/home/gabriel/GitFinal/web/view/v_finalizarPedido.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/finalizar.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/view/v_venda.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/view/v_usuario.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/view/v_produto.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/usuarioCadastrar.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/view/v_fornecedorCadastar.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/login.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/view/v_produtoCadastar.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/clienteCadastrar.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/cliente.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/finalizarPedido.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/footer.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/produtoCadastrar.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/topmenu.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/view/v_usuarioCadastrar.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/produto.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/fornecedorCadastrar.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/content.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/view/v_fornecedor.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/view/v_finalizar.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/view/v_relatorioPedidos.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/excluirPedido.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/relatorioPedidos.jsp</file>
             <file>file:/home/gabriel/GitFinal/web/menu.jsp</file>
             <file>file:/home/gabriel/GitFinal/web/ProcessaItem.jsp</file>
             <file>file:/home/gabriel/GitFinal/web/modelo.jsp</file>
-            <file>file:/home/gabriel/GitFinal/web/login.jsp</file>
-            <file>file:/home/gabriel/GitFinal/web/view/v_produtoCadastar.jsp</file>
-            <file>file:/home/gabriel/GitFinal/web/produtoCadastrar.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/view/v_cliente.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/view/v_clienteCadastar.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/fornecedor.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/head.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/relatorioPedidosItens.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/script.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/view/v_relatorioPedidosItens.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/venda.jsp</file>
+            <file>file:/home/gabriel/GitFinal/web/login.html</file>
+            <file>file:/home/gabriel/GitFinal/web/usuario.jsp</file>
         </group>
     </open-files>
 </project-private>
